@@ -1,4 +1,21 @@
 {
+  "Ads": [
+  {
+    "select_ads": "ADMOB",
+    "status_app": "0",
+    "link_redirect": "https://play.google.com/store/apps/details?id=com.harikookanglim.mystickerwhatsapp",
+    "admob_interid": "ca-app-pub-8466336975948912/7979746348",
+    "admob_bannerid": "ca-app-pub-8466336975948912/8746033103",
+    "admob_openid": "ca-app-pub-8466336975948912/2535847972",
+    "interval_intertitial": 5,
+    "startappid": "204644806",
+    "fan_inter": "612492376332507_612493222999089",
+    "fan_banner": "612492376332507_612492762999135",
+    "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+    "mopub_inter": "24534e1901884e398f1253216226017e",
+    "packagename": "com.harikookanglim.shinbiwallpaper"
+  }
+],
   "More":
   [
     {
